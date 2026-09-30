@@ -8,3 +8,6 @@ print("x: ", x)
 
 print("****END*****")
 
+y = 11
+
+pritn(x*y)
