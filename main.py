@@ -5,3 +5,7 @@ print("this is a random nunber")
 
 x = random.randint(10, 100)
 print("x: ", x)
+
+y = 11
+
+pritn(x*y)
